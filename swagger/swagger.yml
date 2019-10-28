@@ -1,0 +1,19 @@
+swagger: "2.0"
+info: {}
+paths: {}
+definitions:
+  models.Users:
+    title: Users
+    type: object
+    properties:
+      UserHeaderUrl:
+        type: string
+      UserId:
+        type: integer
+        format: int64
+      UserName:
+        type: string
+      UserPassword:
+        type: string
+      UserTag:
+        type: string
