@@ -1,0 +1,1 @@
+F:\gostudy\src\goBlog/views/tag/index.tpl

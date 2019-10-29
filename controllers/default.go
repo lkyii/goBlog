@@ -1,6 +1,7 @@
 package controllers
 
 import (
+	_ "fmt"
 	"github.com/astaxie/beego"
 )
 

@@ -24,6 +24,7 @@ func (c *UsersController) URLMapping() {
 	c.Mapping("Delete", c.Delete)
 }
 
+//CE M471A5143EB0-CPB
 // Post ...
 // @Title Post
 // @Description create Users

@@ -47,7 +47,6 @@
                 <img src="{{.headerUrl}}" alt="" class="img-rounded">
                 <button class="btn btn-info">我</button>
                 <button class="btn btn-success">25岁</button>
-                <button class="btn btn-warning">单身汉</button>
                 <button class="btn btn-danger">codeing</button>
                 <button class="btn btn-info">篮球</button>
                 <button class="btn btn-success">摄影</button>
